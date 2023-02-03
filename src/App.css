@@ -36,3 +36,57 @@
     transform: rotate(360deg);
   }
 }
+.tab{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-left: 5rem;
+}
+.tab1 {
+  border: 1px solid #d7e609;
+  text-align: left;
+  padding: 10px;
+  width: auto;
+  border-radius: 20px;
+  text-align: center;
+  display: block;
+  
+}
+
+
+.tab1 td{
+  border: 1px solid #d7e609;
+  text-align: left;
+  padding: 10px;
+  width: 8rem;
+  border-radius: 20px;
+  text-align: center;
+ 
+  
+}
+.tab1 th{
+  border: 1px solid #10ca92;
+  text-align: left;
+  padding: 10px;
+  text-align: center;
+  width: 11rem;
+  border-radius: 20px;
+ 
+  
+  
+}
+.tab td, th{
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 5px;
+  width: 11rem;
+
+}
+.name{
+  width: 8rem;
+}
+.item{
+  border: solid green 1px;
+  padding: 5px;
+  margin: 10px;
+}
